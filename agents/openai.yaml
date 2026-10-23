@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨境电商 Listing 编写"
+  short_description: "确认产品事实后研究竞品流量与评论，编写 Listing 并策划整套场景商品图"
+  default_prompt: "使用 $cross-border-listing，根据我的资料确认产品事实，研究竞品现状、流量词和评论后编写 Listing；有产品图时继续场景选择、整套提示词、生图审核及 1600×1600 导出。"
